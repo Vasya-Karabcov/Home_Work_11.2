@@ -1,4 +1,5 @@
-def strr():
+def str_big():
     """Делает все буквы заглавными"""
-    value = input().upper()
-    return value
+    val = input().upper()
+
+    return val
